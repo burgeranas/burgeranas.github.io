@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<chanel>
+<title>Burger ANAS : Nove Ponude</title>
+<link>https://burgeranas.000webhostapp.com</link>
+<description>Obaveštenja o novim ponudama u našem meniju</description>
+<item>
+<title>Kraljevski burger</title>
+<link>https://burgeranas.000webhostapp.com/rss.xml/index.html#burgeri</link>
+<description> Spoj predivnog mirisa i ukusa koji će Vas ostaviti bez nogu!</description>
+</item>
+<item>
+<title>Kraljevski Cheeseburger</title>
+<link>https://burgeranas.000webhostapp.com/rss.xml/index.html#burgeri</link>
+<description>Spoj predivnog mirisa i ukusa koji će Vas ostaviti bez nogu!</description>
+</item>
+
+</chanel>
+</rss>
