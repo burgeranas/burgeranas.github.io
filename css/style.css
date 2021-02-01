@@ -244,14 +244,15 @@ header{
 	border-radius:15px 50px 30px;
 	
 }
-#o-autoru h2{
-	text-align: center;
-	color: var(--yellow);
-	font-family: 'Yusei Magic', sans-serif;
-}
+
 .slika-o-autoru img{
 	border-radius: 100%;
 	
+}
+.o-autoru-tekst h2{
+	text-align: center;
+	color: var(--yellow);
+	font-family: 'Yusei Magic', sans-serif;
 }
 
 .centar-o-autoru{
